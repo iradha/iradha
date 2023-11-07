@@ -1,4 +1,9 @@
-### Hi there 👋
+# Welcome to GitHub
+
+Hello Everyone,👋  
+  
+A recent graduate with a **Bachelor of Technology in Computer Science** from Guru Gobind Singh Indraprastha University, Delhi.  
+Seeking an entry-level software engineering position in a fast-paced, innovative company. Proven ability to learn quickly and adapt to new technologies. Strong problem-solving and analytical skills. Passionate about using technology to solve real-world problems. 
 
 <!--
 **iradha/iradha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
